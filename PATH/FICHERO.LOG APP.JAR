@@ -1,0 +1,10 @@
+2022-07-26 09:00:33.152 ERROR 11696 --- [http-nio-8080-exec-1] com.bosonit.BS5JuanRodrigo.controlador   : Hola , este es un mensaje de error
+2022-07-26 09:00:34.846 ERROR 11696 --- [http-nio-8080-exec-3] com.bosonit.BS5JuanRodrigo.controlador   : Hola , este es un mensaje de error
+2022-07-26 09:00:37.914 ERROR 11696 --- [http-nio-8080-exec-4] com.bosonit.BS5JuanRodrigo.controlador   : Hola , este es un mensaje de error
+2022-07-26 09:00:41.299 ERROR 11696 --- [http-nio-8080-exec-5] com.bosonit.BS5JuanRodrigo.controlador   : Hola , este es un mensaje de error
+2022-07-26 09:01:33.840 ERROR 11696 --- [http-nio-8080-exec-8] com.bosonit.BS5JuanRodrigo.controlador   : Hola , este es un mensaje de error
+2022-07-26 09:02:35.974 ERROR 11696 --- [http-nio-8080-exec-1] com.bosonit.BS5JuanRodrigo.controlador   : Hola , este es un mensaje de error
+2022-07-26 09:02:44.641 ERROR 11696 --- [http-nio-8080-exec-3] com.bosonit.BS5JuanRodrigo.controlador   : Hola , este es un mensaje de error
+2022-07-26 09:10:41.634 ERROR 11696 --- [http-nio-8080-exec-1] com.bosonit.BS5JuanRodrigo.controlador   : Hola , este es un mensaje de error
+2022-07-26 09:10:58.859 ERROR 11696 --- [http-nio-8080-exec-3] com.bosonit.BS5JuanRodrigo.controlador   : Hola , este es un mensaje de error
+2022-07-26 09:13:22.298  WARN 4160 --- [http-nio-8080-exec-1] com.bosonit.BS5JuanRodrigo.controlador   : Hola, este es un mensaje de warning que saldrá por pantalla 
